@@ -1,6 +1,6 @@
-export * as ReactDOM from "https://jspm.dev/react-dom@16.0.0"
+export * as ReactDOM from "https://jspm.dev/react-dom@16"
 
-import * as React from "https://jspm.dev/react@16.0.0"
+import * as React from "https://jspm.dev/react@16"
 
 const {default: any, ...rest} = React
 const react = React.default
